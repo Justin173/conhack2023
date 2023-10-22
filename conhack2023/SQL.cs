@@ -5,5 +5,6 @@ namespace conhack2023
 {
     internal class SQL
     {
+
     }
 }

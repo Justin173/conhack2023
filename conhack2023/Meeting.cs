@@ -1,9 +1,9 @@
-﻿//erica
+﻿//nic
 using System;
+
 namespace conhack2023
 {
-    internal class course
+    internal class Meeting
     {
-
     }
 }
